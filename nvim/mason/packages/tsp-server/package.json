@@ -1,0 +1,15 @@
+{
+  "name": "@mason/tsp-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typespec/compiler": "^0.67.2"
+  }
+}
